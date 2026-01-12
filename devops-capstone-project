@@ -1,0 +1,10 @@
+# devops-capstone-project
+
+## Project Overview
+This repository is dedicated to the DevOps Capstone Project, focusing on implementing Agile methodologies using GitHub's project management tools. The goal is to establish a structured workflow that moves from high-level requirements to executable sprint tasks.
+
+## Key Objectives
+* *Environment Setup:* Create a GitHub repository and configure a Kanban board for task visualization.
+* *Requirement Engineering:* Develop a standardized user story template and populate the backlog with initial feature sets.
+* *Backlog Management:* Sort and refine user stories to ensure they meet the "Definition of Ready."
+* *Agile Planning:* Build a comprehensive sprint plan to manage team capacity and project delivery.
